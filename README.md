@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **minhkiet05@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[https://github.com/MinhKiet05/MinhKiet05](https://github.com/MinhKiet05/MinhKiet05)**
+- 👨‍💻 All of my projects are available at **[https://github.com/MinhKiet05/MinhKiet05](https://github.com/MinhKiet05)**
 
 - 📝 I regularly write articles on **[https://www.facebook.com/mnhkt.iie](https://www.facebook.com/mnhkt.iie)**
 
