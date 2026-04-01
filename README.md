@@ -8,7 +8,7 @@
 
 - 👯 I'm looking to collaborate on **open src**
 
-- 📫 How to reach me **minhkiet05@gmail.com**
+- 📫 How to reach me **thminhkiet05@gmail.com**
 
 - 👨‍💻 All of my projects are available at **[https://github.com/MinhKiet05/MinhKiet05](https://github.com/MinhKiet05)**
 
